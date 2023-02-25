@@ -1,4 +1,5 @@
 # Beginner Level:
+```
 Lesson 1: Introduction to HTML
   What is HTML
   Basic structure of an HTML document
@@ -41,7 +42,9 @@ Lesson 9: Working with JavaScript
   Manipulating HTML with JavaScript
   Handling events
   Basic DOM manipulation
-Advanced Level:
+```
+# Advanced Level:
+```
 Lesson 10: Advanced JavaScript
   Working with arrays and objects
   Asynchronous programming and callbacks
@@ -57,6 +60,7 @@ Lesson 12: Advanced Web Development Concepts
   Web performance optimization
   Security and authentication
   Websockets and real-time communication
+```
 # God Tier:
 Lesson 13: Mastering Web Development
   Web architecture and design patterns
@@ -72,3 +76,4 @@ Lesson 15: Advanced Web Technologies
   Machine learning in the browser
   Progressive web applications (PWA)
   Blockchain and decentralized web
+```
