@@ -1,3 +1,7 @@
+# Prerequisites
+
+Python knowledge, everything taught in this course will be proven using python scripts and a calculator.
+
 # Beginner Level:
 ```
 Arithmetic: Introduce basic arithmetic concepts, including addition, subtraction, multiplication, and division.
