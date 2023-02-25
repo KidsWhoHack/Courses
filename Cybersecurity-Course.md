@@ -38,6 +38,7 @@ Reverse Engineering: Learn how to reverse engineer software and malware, includi
 Advanced Exploitation Techniques: Learn about advanced exploitation techniques, such as advanced persistent threats, zero-day exploits, and bypassing advanced security controls.
 Cybersecurity Law and Ethics: Learn about cybersecurity laws and regulations, and the ethical considerations of cybersecurity, such as privacy, data protection, and social responsibility.
 Cybersecurity Research: Learn how to conduct cybersecurity research, including identifying research questions, conducting experiments, and publishing research findings.
+Hardware Exploiting: Learn how to exploit hardware combining robotics and cybersecurity in order to compromise a system.
 ```
 # Projects above God Tier:
 ```
