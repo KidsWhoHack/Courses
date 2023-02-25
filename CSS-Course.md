@@ -40,7 +40,9 @@ Lesson 8: Transitions and Animations
 Lesson 9: Transformations and Filters
   Transform property: translate, rotate, scale, skew
   Filter property: blur, brightness, contrast, grayscale, hue-rotate, invert, opacity, saturate, sepia
-  Advanced Level:
+```
+# Advanced Level:
+```
 Lesson 10: CSS Architecture and Naming Conventions
   Introduction to CSS architecture: BEM, SMACSS, OOCSS
   Best practices for naming CSS classes
