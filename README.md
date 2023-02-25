@@ -1,2 +1,4 @@
 # Courses
-All of courses in folders with documents linking to the videos that correlate to the unit. (Hosted On Youtube)
+All my courses planning as well as the links to the playlist in which they correspond to.
+
+My courses are special because they do not want you to watch the video but rather do hands-on activites in order to increase knowledge.
