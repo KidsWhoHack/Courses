@@ -21,7 +21,9 @@ Lesson 3: Working with Links
 Lesson 5: Adding Multimedia
   Adding audio and video
   Adding animations using GIFs
-  Intermediate Level:
+```
+# Intermediate Level:
+```
 Lesson 6: Styling HTML with CSS
   Introduction to CSS
   Inline, internal, and external stylesheets
