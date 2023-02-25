@@ -64,6 +64,7 @@ Lesson 12: Advanced Web Development Concepts
   Websockets and real-time communication
 ```
 # God Tier:
+```
 Lesson 13: Mastering Web Development
   Web architecture and design patterns
   Testing and debugging strategies
