@@ -36,4 +36,5 @@ Developing a Custom Windows Kernel Driver: Develop a custom Windows kernel drive
 Building a Custom Windows Application: Build a custom Windows application using a programming language such as C# or Visual Basic, including designing the user interface, implementing functionality, and deploying the application on a Windows system.
 Creating a Windows Security Hardening Plan: Develop a comprehensive security hardening plan for a Windows system or network, including identifying and mitigating potential security threats and implementing security best practices.
 Implementing a Windows Infrastructure: Design and implement a Windows infrastructure for an enterprise network, including configuring servers, managing user accounts and permissions, and setting
+Creating your own custom Windows OS using NTlite
 ```
